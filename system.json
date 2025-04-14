@@ -41,7 +41,7 @@
   "packFolders": [],
   "socket": false,
   "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
-  "download": "This must link to a .zip file of the current version",
+  "download": "https://github.com/Bwuljqh/sinless-foundry-system/archive/refs/heads/fix_download_link.zip",
   "background": "systems/sinless-foundry-system/assets/sinless.png",
   "grid": {
     "units": "m",
